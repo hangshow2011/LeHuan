@@ -1,4 +1,4 @@
-## Grid Tales
-(https://space.bilibili.com/245750180) ![Grid Tales](./Icon_bilibili.png) 
+- Grid Tales
+(./GridTales/index.md) ![Grid Tales](./GridTales//Icon_bilibili.png) 
 
-go to [Privacy Policy](./policy.md).
+go to [Grid Tales](./GridTales/index.md).
