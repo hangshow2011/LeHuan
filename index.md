@@ -1,4 +1,3 @@
 - Grid Tales
-(./GridTales/index.md) ![Grid Tales](./GridTales//Icon_bilibili.png) 
 
-go to [Grid Tales](./GridTales/index.md).
+- go to [Grid Tales](./GridTales/index.md)  ![logo](./GridTales/logo.png) .
