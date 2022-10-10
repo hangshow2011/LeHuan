@@ -1,3 +1,6 @@
+## Wash Card
+![an image](./logo.png)
+
 ## Technical support
 ![an image](./Adverting2_460_215.png)
 ### Contact us
