@@ -14,6 +14,8 @@ A game develop by by Hang Zhang.
 3. Bilibil Social sites: [zhang阿hang](https://space.bilibili.com/245750180) ![bilibili](./Icon_bilibili.png) 
 4. Join QQ group: [103729508](https://jq.qq.com/?_wv=1027&k=CHDCsepW) ![QQ群](./Icon_qq.png) 
 
+5. Twitter: [zhang阿hang](https://twitter.com/hangshow2011) ![twitter](./Icon_twitter.png) 
+
 ### What's news
 - 2021/12/17
   - Can be download On [Microsoft Store](https://www.microsoft.com/store/apps/9NBZGWPTSVL8) ![Microsoft Store](./Icon_microsoft.png) now.
