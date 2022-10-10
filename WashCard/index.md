@@ -1,6 +1,7 @@
 ## Wash Card
-- A game app by Hang Zhang.
 ![an image](./logo.png)
+
+A game develop by by Hang Zhang.
 
 ## Technical support
 ![an image](./advert_616_353.png)

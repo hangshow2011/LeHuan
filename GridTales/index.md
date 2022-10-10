@@ -1,6 +1,7 @@
 ## Grid Tales
-- A game app by Hang Zhang.
 ![an image](./logo.png)
+
+A game develop by by Hang Zhang.
 
 ## Technical support
 ![an image](./Adverting2_460_215.png)
