@@ -2,7 +2,7 @@
 ![an image](./logo.png)
 
 ## Technical support
-![an image](./Adverting2_460_215.png)
+![an image](./advert_616_353.png)
 ### Contact us
 
  If you have any questions, please contact us by this email and we give reply to you as soon as possible.
@@ -13,22 +13,10 @@
 4. Join QQ group: [103729508](https://jq.qq.com/?_wv=1027&k=CHDCsepW) ![QQ群](./Icon_qq.png) 
 
 ### What's news
-- 2021/12/17
-  - Can be download On [Microsoft Store](https://www.microsoft.com/store/apps/9NBZGWPTSVL8) ![Microsoft Store](./Icon_microsoft.png) now.
-  - Can be download On [Xbox Live](https://www.xbox.com/en-us/games/store/grid-tales/9nbzgwptsvl8) ![Xbox Live](./Icon_xbox.png) now.
-
-- 2021/12/16
-  - Can be download On [Google Play](https://play.google.com/store/apps/details?id=com.lehuan.GridTales) ![Google play](./Icon_google.png) now.
-
-- 2021/12/15
+- 2022/10/10
   - Can be download On [Steam](https://store.steampowered.com/app/1739940/Grid_Tales/) ![steam](./Icon_steam.png) now.
-
-- 2021/12/14
-  - Can be download On [App Store](https://apps.apple.com/app/id1597284793) ![App Store](./Icon_appstore.png) now.
-
-- 2021/12/12
-  - Game pad ![pad](./Icon_pad.png) are now supported.
-
+ 
+ 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 ### Privacy Policy
 go to [Privacy Policy](./policy.md).
