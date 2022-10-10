@@ -1,4 +1,5 @@
 ## Wash Card
+- A game app by Hang Zhang.
 ![an image](./logo.png)
 
 ## Technical support
@@ -16,7 +17,7 @@
 - 2022/10/10
   - Can be download On [Steam](https://store.steampowered.com/app/1739940/Grid_Tales/) ![steam](./Icon_steam.png) now.
  
- 
+
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 ### Privacy Policy
 go to [Privacy Policy](./policy.md).
