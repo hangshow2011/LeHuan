@@ -17,8 +17,8 @@ A game develop by by Hang Zhang.
 5. Twitter: [zhang阿hang](https://twitter.com/hangshow2011) ![twitter](./Icon_twitter.png) 
 
 ### What's news
-- 2022/?/?
-  - Can be download On [Steam](https://store.steampowered.com/app/2095150/Wash_Card/) ![steam](./Icon_steam.png) now.
+- 2022/11/03
+  - Can be download On [Steam](https://store.steampowered.com/app/2095150/) ![steam](./Icon_steam.png) now.
  
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
