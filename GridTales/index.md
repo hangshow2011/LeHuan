@@ -1,7 +1,7 @@
 ## Grid Tales
 ![an image](./logo.png)
 
-A game develop by by Hang Zhang.
+A game develop by Hang Zhang.
 
 ## Technical support
 ![an image](./Adverting2_460_215.png)
