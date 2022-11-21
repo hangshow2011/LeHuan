@@ -1,7 +1,7 @@
 ## Wash Card
 ![an image](./logo.png)
 
-A game develop by by Hang Zhang.
+A game develop by Hang Zhang.
 
 ## Technical support
 ![an image](./advert_616_353.png)
