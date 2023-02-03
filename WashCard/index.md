@@ -9,9 +9,9 @@ A game develop by Hang Zhang.
 
  If you have any questions, please contact us by this email and we give reply to you as soon as possible.
 
-1. E-mail: <abczhanghang@gmail.com>
-2. E-mail: <909715631@qq.com>
-3. Bilibil Social sites: [zhang阿hang](https://space.bilibili.com/245750180) ![bilibili](./Icon_bilibili.png) 
+1. E-mail: <909715631@qq.com>
+2. E-mail: <abczhanghang@gmail.com>
+4. Bilibil Social sites: [zhang阿hang](https://space.bilibili.com/245750180) ![bilibili](./Icon_bilibili.png) 
 <!-- 4. Join QQ group: [103729508](https://jq.qq.com/?_wv=1027&k=CHDCsepW) ![QQ群](./Icon_qq.png)  -->
 
 5. Twitter: [zhang阿hang](https://twitter.com/hangshow2011) ![twitter](./Icon_twitter.png) 
